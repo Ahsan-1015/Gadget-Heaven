@@ -8,8 +8,8 @@ import ProductDetails from '../Pages/ProductDetails';
 import Cart from '../Components/Cart';
 import Wishlist from '../Components/Wishlist';
 import ContactUs from '../Pages/ContactUs';
-import ErrorPage from '../Components/Home/ErrorPage';
 import { Helmet } from 'react-helmet';
+import ErrorPage from '../Components/Home/ErrorPage';
 
 const router = createBrowserRouter([
   {
