@@ -9,7 +9,7 @@ React, Tailwind CSS, DaisyUI, and deployed on Vercel.
 
 ### 🚀 Live Demo
 
-[**Gadget Heaven Live Site**](gadgets__heaven.surge.sh)
+[**Gadget Heaven Live Site**](https://gadgets__heaven.surge.sh/)
 
 ### 📄 Requirement Document
 
